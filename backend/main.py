@@ -4,10 +4,10 @@ from ultralytics import YOLO
 from google import genai
 import io
 from PIL import Image
-import torch
+
 
 app = FastAPI()
-API_KEY = "YOUR_GEMINI_API_KEY_HERE"  #add your API key here
+API_KEY = "YOUR_API_KEY_HERE"  #add your API key here
 
 # 2. Frontend (React) 
 app.add_middleware(

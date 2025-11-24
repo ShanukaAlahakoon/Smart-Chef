@@ -1,6 +1,6 @@
 # 🍳 Fridge-to-Recipe GenAI (Smart Chef)
 
-![Project Banner](screenshots/demo2.png)
+![Project Banner](screenshots/home.png)
 
 An intelligent full-stack application that helps you decide what to cook! Simply upload a photo of the ingredients in your fridge, and the AI will detect them and generate a gourmet recipe for you.
 
@@ -97,7 +97,8 @@ The frontend will start at `http://localhost:5173`
 
 ### Demo
 
-![Demo](screenshots/demo.png)
+![Demo](screenshots/demo1.png)
+![Demo](screenshots/demo2.png)
 
 ### Accuracy Analysis
 
