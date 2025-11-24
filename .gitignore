@@ -1,0 +1,17 @@
+# Python System Files
+__pycache__/
+*.py[cod]
+venv/
+.env
+
+# Node Modules (Frontend)
+frontend/node_modules/
+frontend/dist/
+
+# Large Model Files
+
+*.onnx
+
+# IDE Files
+.vscode/
+.idea/
